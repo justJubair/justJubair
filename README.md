@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:640/1*nwhfNwNtPw-bPg8WC9uCBg.gif)
+<img align='center' width='full' src='https://miro.medium.com/v2/resize:fit:640/1*nwhfNwNtPw-bPg8WC9uCBg.gif'>
 <h1 align="center">Hi, I'm Jubair Ahmed</h1>
 <h3 align="center">I'm a front-end developer, I mainly work with React and JS.</h3>
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'>
