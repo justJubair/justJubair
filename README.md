@@ -1,4 +1,4 @@
-<img align='center' width='100%' src='https://miro.medium.com/v2/resize:fit:640/1*nwhfNwNtPw-bPg8WC9uCBg.gif'>
+<img align='center' width='100%' src='[https://miro.medium.com/v2/resize:fit:640/1*nwhfNwNtPw-bPg8WC9uCBg.gif](https://miro.medium.com/v2/resize:fit:720/1*a-HMmQFQNC76zCZBZfFgJg.gif)'>
 <h1 align="center">Hi, I'm Jubair Ahmed</h1>
 <h3 align="center">I'm a front-end developer, I mainly work with React and JS.</h3>
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'>
