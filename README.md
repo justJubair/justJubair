@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://justjubair.github.io/portfolio-02/](https://justjubair.github.io/portfolio-02/)
 
-- 💬 Ask me about **React, Vanilla JS, Tailwind**
+- 💬 Ask me about **React, Vanilla JS, Node, MongoDB**
 
 - 📫 How to reach me **jubair.ahmed2838@gmail.com**
 
