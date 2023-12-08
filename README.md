@@ -1,13 +1,11 @@
-<video autoplay loop>
-  <source src="./assets/Jubair-Ahmed.mp4" type="video/mp4">
-    <source src="./assets/Jubair-Ahmed.mp4" type="video/ogg">
+<video src="./assets/Jubair-Ahmed.mp4" autoplay loop>
 </video>
 
-<h1 align="center">Hi, I'm Jeoy Ahmed</h1>
+<!-- <h1 align="center">Hi, I'm Jeoy Ahmed</h1>
 <h3 align="center">I'm a front-end developer, I mainly work with React and JS.</h3>
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justjubair&label=Profile%20views&color=0e75b6&style=flat" alt="justjubair" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=justjubair&label=Profile%20views&color=0e75b6&style=flat" alt="justjubair" /> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://justjubair.github.io/portfolio-02/](https://justjubair.github.io/portfolio-02/)
 
