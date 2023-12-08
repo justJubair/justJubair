@@ -10,9 +10,9 @@
 <!--  
  ![justJubair's Streak](https://github-readme-streak-stats.herokuapp.com/?user=justJubair&theme=tokyonight&hide_border=true) -->
 <div style="display: flex;
-align-items: center; gap:10px">
+align-items: center; gap:8px">
  <h3>Stats</h3>
-  <img width="30px" height="100%" src="https://raw.githubusercontent.com/justJubair/justJubair/21dda55ec9b99de89f0a5d3e078747a4b898a9f3/assets/bar-chart.svg"/> 
+  <img width="25px" src="https://raw.githubusercontent.com/justJubair/justJubair/4677cbc62d5751e09503831959effbc0909461d1/assets/bar2.svg"/> 
 </div>
 
 <p align="center">
