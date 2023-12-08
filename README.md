@@ -14,7 +14,7 @@
 
   <a href="https://www.linkedin.com/in/jubair-ahmed-74a99023b" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="https://www.linkedin.com/in/jubair-ahmed-74a99023b/" height="30" width="30" /></a>
 
-<a href="https://www.linkedin.com/in/jubair-ahmed-74a99023b" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="https://www.linkedin.com/in/jubair-ahmed-74a99023b/" height="30" width="30" /></a>
+
 
 
 
