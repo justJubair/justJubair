@@ -11,7 +11,7 @@
  ![justJubair's Streak](https://github-readme-streak-stats.herokuapp.com/?user=justJubair&theme=tokyonight&hide_border=true) -->
 <p align="center">
  
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=justJubair&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=justJubair&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
