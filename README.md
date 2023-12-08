@@ -31,8 +31,10 @@
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,tailwindcss,html,css,sass,bootstrap,firebase,nodejs,mongodb,express&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,javascript,tailwindcss,html,css,sass,bootstrap,firebase,nodejs,mongodb,express&theme=dark)
 
+<br>
+<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justJubair&theme=tokyonight)
 
