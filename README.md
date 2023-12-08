@@ -9,12 +9,14 @@
 
 <!--  
  ![justJubair's Streak](https://github-readme-streak-stats.herokuapp.com/?user=justJubair&theme=tokyonight&hide_border=true) -->
+ ## Stats
 <p align="center">
  
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=justJubair&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
+## Overview
 - 👨‍💻 All of my projects are available at [https://justjubair.github.io/portfolio-02/](https://justjubair.github.io/portfolio-02/)
 
 - 💬 Ask me about **React, Vanilla JS, Node, MongoDB**
