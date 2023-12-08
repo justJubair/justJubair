@@ -35,14 +35,14 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,javascript,tailwindcss,html,css,sass,bootstrap,firebase,nodejs,mongodb,express&theme=dark&perline=6"/>
 </p>
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justJubair&theme=tokyonight
+
 <br>
 
 <p align="center">
 <img width="350" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justJubair&theme=tokyonight" />
 </p>
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justJubair&theme=tokyonight) -->
+
 
 
 
