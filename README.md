@@ -1,6 +1,4 @@
-<video autoplay loop>
-  <source src="./assets/Jubair-Ahmed.mp4" type="video/mp4">
-    <source src="./assets/Jubair-Ahmed.mp4" type="video/ogg">
+<video src="./assets/Jubair-Ahmed.mp4" autoplay loop>
 </video>
 
 <h1 align="center">Hi, I'm Jeoy Ahmed</h1>
