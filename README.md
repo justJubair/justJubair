@@ -1,26 +1,14 @@
 <!-- banner image -->
 <img width="100%" heigth="100%" src="https://raw.githubusercontent.com/justJubair/justJubair/main/assets/Jubair%20Ahmed.gif" alt="banner"/>
 
-<!-- profile view count -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=justjubair&label=Profile%20views&color=0e75b6&style=flat" alt="justjubair" /> </p> -->
 
-
-<!-- stats -->
-
-<!--  
- ![justJubair's Streak](https://github-readme-streak-stats.herokuapp.com/?user=justJubair&theme=tokyonight&hide_border=true) -->
-<div style="display: flex;
-align-items: center; gap:8px">
- <h3>Stats</h3>
-  <img width="25px" src="https://raw.githubusercontent.com/justJubair/justJubair/4677cbc62d5751e09503831959effbc0909461d1/assets/bar2.svg"/> 
-</div>
-
+## Stats
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=justJubair&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
-### Overview
+## Overview
 - 👨‍💻 All of my projects are available at [https://justjubair.github.io/portfolio-02/](https://justjubair.github.io/portfolio-02/)
 
 - 💬 Ask me about **React, Vanilla JS, Node, MongoDB**
