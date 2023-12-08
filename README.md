@@ -1,8 +1,4 @@
-<video  autoplay loop>
-  <source src="https://videos.cdn.spotlightr.com/watch/MTU1NzA1Mg==" type="video/mp4">
- 
- 
-</video>
+
 <!-- <h1 align="center">Hi, I'm Jeoy Ahmed</h1>
 <h3 align="center">I'm a front-end developer, I mainly work with React and JS.</h3>
 <img align='right' alt='coding' width='400' src='https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif'>
