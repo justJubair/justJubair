@@ -16,7 +16,7 @@
 - 📫 How to reach me **jubair.ahmed2838@gmail.com**
 
 ## Connect with me:
-<p align="center">
+<p>
   <a href="https://www.instagram.com/jubair_ahmeed" target="_blank">
     <img height="40" src="https://raw.githubusercontent.com/justJubair/justJubair/0b573db16ac15f044f6ba0a66282f1f17588dda6/assets/instagram.svg">
   </a>
@@ -35,7 +35,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,javascript,tailwindcss,html,css,sass,bootstrap,firebase,nodejs,mongodb,express&theme=dark&perline=6"/>
 </p>
-
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justJubair&theme=tokyonight
 <br>
 
 <p align="center">
