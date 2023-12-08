@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div style="display:flex; align-items:center; gap:20px">
-    <a href="https://www.linkedin.com/in/jubair-ahmed-74a99023b" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="https://www.linkedin.com/in/jubair-ahmed-74a99023b/" height="30" width="30" /></a>
+<div style="display:flex; align-items:center;">
+    <a style="margin-right:10px" href="https://www.linkedin.com/in/jubair-ahmed-74a99023b" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="https://www.linkedin.com/in/jubair-ahmed-74a99023b/" height="30" width="30" /></a>
   <a href="https://www.instagram.com/jubair_ahmeed/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/instagram-icon-512x512-r5v1c3ku.png" alt="https://www.instagram.com/jubair_ahmeed/" height="30" width="30" /></a>
 
 </div>
