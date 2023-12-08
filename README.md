@@ -33,7 +33,7 @@
 
 ## Languages and Tools:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,javascript,tailwindcss,html,css,sass,bootstrap,firebase,nodejs,mongodb,express&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=react,javascript,tailwindcss,html,css,sass,bootstrap,firebase,nodejs,mongodb,express&theme=dark&perline=6"/>
 </p>
 
 <br>
