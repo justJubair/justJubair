@@ -16,7 +16,7 @@
 - 📫 How to reach me **jubair.ahmed2838@gmail.com**
 
 ## Connect with me:
-[<p align="center"><img height="40" src="https://raw.githubusercontent.com/justJubair/justJubair/0b573db16ac15f044f6ba0a66282f1f17588dda6/assets/linkedin%20(1).svg">](https://www.linkedin.com/in/jubair-ahmed-74a99023b)[<img height="40" width="150" src="https://raw.githubusercontent.com/justJubair/justJubair/0b573db16ac15f044f6ba0a66282f1f17588dda6/assets/instagram.svg">](https://www.instagram.com/jubair_ahmeed/)[<img height="40" src="https://raw.githubusercontent.com/justJubair/justJubair/0b573db16ac15f044f6ba0a66282f1f17588dda6/assets/twitter.svg"> </p>](https://twitter.com/ahmed_juba93526)
+[<p align="center"><img height="40" src="https://raw.githubusercontent.com/justJubair/justJubair/e92735ffa2ea778769af30fd54718c7f0081290d/assets/linkedin.svg">](https://www.linkedin.com/in/jubair-ahmed-74a99023b)[<img height="40" width="150" src="https://raw.githubusercontent.com/justJubair/justJubair/0b573db16ac15f044f6ba0a66282f1f17588dda6/assets/instagram.svg">](https://www.instagram.com/jubair_ahmeed/)[<img height="40" src="https://raw.githubusercontent.com/justJubair/justJubair/0b573db16ac15f044f6ba0a66282f1f17588dda6/assets/twitter.svg"> </p>](https://twitter.com/ahmed_juba93526)
 
 
 ## Languages and Tools:
