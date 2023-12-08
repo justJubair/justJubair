@@ -11,9 +11,13 @@
 - 📫 How to reach me **jubair.ahmed2838@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<div style="display:flex">
+ <p align="left"> <a href="https://www.linkedin.com/in/jubair-ahmed-74a99023b" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="https://www.linkedin.com/in/jubair-ahmed-74a99023b/" height="30" width="30" /></a>
+</p>
 <p align="left"> <a href="https://www.linkedin.com/in/jubair-ahmed-74a99023b" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="https://www.linkedin.com/in/jubair-ahmed-74a99023b/" height="30" width="30" /></a>
 </p>
- <a href="https://www.linkedin.com/in/jubair-ahmed-74a99023b" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/instagram-icon-512x512-r5v1c3ku.png" alt="https://www.linkedin.com/in/jubair-ahmed-74a99023b/" height="30" width="30" /></a>
+</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
