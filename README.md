@@ -28,15 +28,21 @@
   </a>
 </p>
 
+<br>
 
 
 ## Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=react,javascript,tailwindcss,html,css,sass,bootstrap,firebase,nodejs,mongodb,express&theme=dark)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,javascript,tailwindcss,html,css,sass,bootstrap,firebase,nodejs,mongodb,express&theme=dark&perline=4"/>
+</p>
 
 <br>
-<br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justJubair&theme=tokyonight)
+<p align="center">
+<img width="350" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justJubair&theme=tokyonight" />
+</p>
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justJubair&theme=tokyonight) -->
 
 
 
