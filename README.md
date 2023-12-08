@@ -2,10 +2,18 @@
 <img width="100%" heigth="100%" src="https://raw.githubusercontent.com/justJubair/justJubair/main/assets/Jubair%20Ahmed.gif" alt="banner"/>
 
 <!-- profile view count -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justjubair&label=Profile%20views&color=0e75b6&style=flat" alt="justjubair" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=justjubair&label=Profile%20views&color=0e75b6&style=flat" alt="justjubair" /> </p> -->
+
 
 <!-- stats -->
-![justJubair's Streak](https://github-readme-streak-stats.herokuapp.com/?user=justJubair&theme=tokyonight&hide_border=true)
+
+<!--  
+ ![justJubair's Streak](https://github-readme-streak-stats.herokuapp.com/?user=justJubair&theme=tokyonight&hide_border=true) -->
+<p align="center">
+ 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=justJubair&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+
 
 - 👨‍💻 All of my projects are available at [https://justjubair.github.io/portfolio-02/](https://justjubair.github.io/portfolio-02/)
 
