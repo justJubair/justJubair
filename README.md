@@ -18,7 +18,7 @@
 ## Connect with me:
 <p>
   <a href="https://www.instagram.com/jubair_ahmeed" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/justJubair/justJubair/0b573db16ac15f044f6ba0a66282f1f17588dda6/assets/instagram.svg">
+    <img  height="40" src="https://raw.githubusercontent.com/justJubair/justJubair/0b573db16ac15f044f6ba0a66282f1f17588dda6/assets/instagram.svg">
   </a>
   <a href="https://www.linkedin.com/in/jubair-ahmed-74a99023b" target="_blank">
     <img height="40" width="100" src="https://raw.githubusercontent.com/justJubair/justJubair/e1739296990ed0446cc390682320d5cfcc33ee7e/assets/linkedin.svg">
