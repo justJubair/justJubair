@@ -9,7 +9,7 @@
 
 
 ## Overview:
-- 👨‍💻 All of my projects are available at [https://justjubair.github.io/portfolio-02/](https://justjubair.github.io/portfolio-02/)
+- 👨‍💻 All of my projects are available at [Portfolio website](https://jubair-portfolio.vercel.app)
 
 - 💬 Ask me about **React, Vanilla JS, Node, MongoDB**
 
