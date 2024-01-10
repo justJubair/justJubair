@@ -4,10 +4,9 @@
 
 ## Stats:
 <p align="center">
-
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=justJubair&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=justJubair&theme=tokyonight)](https://git.io/streak-stats)
 
 ## Overview:
 - 👨‍💻 All of my projects are available at [Portfolio website](https://jubair-portfolio.vercel.app)
