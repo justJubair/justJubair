@@ -3,9 +3,8 @@
 
 
 ## Stats:
-<p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=justJubair&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=justJubair)](https://git.io/streak-stats)
+
 
 
 ## Overview:
